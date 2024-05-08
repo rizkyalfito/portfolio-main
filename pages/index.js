@@ -9,7 +9,7 @@ export default function Home() {
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4054073151944400"
      crossorigin="anonymous"></script>
         <meta name="description"/>
-                <title>Rizky Alfito Hadi- Web Developer</title>
+                <title>Rizky Alfito Hadi- Portfolio</title>
             </Head>
             <HomePage/>
         </div>
