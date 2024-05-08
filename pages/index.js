@@ -6,8 +6,6 @@ export default function Home() {
         <div>
             <Head>
 <meta name="google-site-verification" content="VJs2G3ynvYQ1KG06ciOhdPdklC1gIUEkJ2KcplrnfWU" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4054073151944400"
-     crossorigin="anonymous"></script>
         <meta name="description"/>
                 <title>Rizky Alfito Hadi- Portfolio</title>
             </Head>

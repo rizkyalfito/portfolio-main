@@ -14,17 +14,17 @@ const Error404 = () => {
                         <span className='sr-only'>Error</span>404
                     </h2>
                     <p className='text-2xl text-black font-semibold md:text-3xl'>
-                        Maaf, kami tidak dapat menemukan halaman yang dimaksud
+                        Sorry, we couldn&#39;t find this page.
                     </p>
                     <p className='mt-4 mb-8 dark:text-gray-400'>
-                        Jangan khawatir, mari explore bagian lain dari website ini!
+                        Don&#39;t worry you can find a lot more things on this website!
                     </p>
                     <Link href='/'>
                         <a
                             rel='noopener noreferrer'
                             className='inline-flex w-full px-12 py-3 text-sm font-medium text-culturedWhite bg-mnBlue rounded shadow sm:w-auto active:bg-blue-500 hover:bg-carolinaBlue focus:outline-none focus:ring'
                         >
-                            Kembali ke Halaman Utama
+                            Back to homepage
                         </a>
 
                     </Link>
