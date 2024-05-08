@@ -1,5 +1,4 @@
 import {FiGithub} from 'react-icons/fi'
-// import {HiOutlineExternalLink} from 'react-icons/hi'
 import Image from 'next/image'
 import Head from 'next/head'
 
@@ -52,7 +51,6 @@ const projects = () => {
                             <p className='text-xs md:text-base'>
                             Solution is a website that measures stress levels using the Perceived Stress Scale method, applying JavaScript technology,
                             Progressive Web Apps. 
-                            <a className='text-blue-500' href='https://addons.mozilla.org/addon/wordy-birdy-scramble-game/'> Visit Extension</a>  
                             </p>
                             <cite className='inline-flex items-center mt-8 not-italic'>
                                 <span className='hidden w-6 h-px bg-gray-400 sm:inline-block'></span>
