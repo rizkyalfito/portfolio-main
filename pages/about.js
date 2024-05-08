@@ -74,7 +74,7 @@ const About = () => {
                 }}
               >
                 <p className="text-left font-normal mb-5 flex-wrap">
-                Final student majoring in Information Systems at Singaperbangsa University Karawang
+                Final student majoring in Information Systems at Singaperbangsa Karawang University
                 </p>
                 <p className="text-left font-normal mb-5 flex-wrap"></p>
                 <p className="text-left font-normal mb-5 flex-wrap">

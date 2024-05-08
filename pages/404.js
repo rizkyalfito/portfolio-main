@@ -31,6 +31,7 @@ const Error404 = () => {
                 </div>
             </div>
         </section>
+
     )
 }
 
