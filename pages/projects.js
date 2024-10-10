@@ -112,7 +112,7 @@ const projects = () => {
                         </div>
                         <blockquote className='sm:col-span-2'>
                             <p className='text-xs md:text-base'>
-                            The KKN Website Project is a digital platform designed to streamline the data management and communication for community service programs (KKN). Built using Vite and React JS, this project ensures a fast and responsive user experience. It utilizes JSON files as a data source, allowing easy storage and retrieval of participant and activity data. The website facilitates real-time updates, event management, and information sharing among students, supervisors, and community members. With a clean interface and efficient structure, this project aims to enhance the coordination and success of KKN programs across various locations.
+                            The KKN Desa Jayakerta Website Project is a digital platform designed to streamline the data management and communication for community service programs (KKN). Built using Vite and React JS, this project ensures a fast and responsive user experience. It utilizes JSON files as a data source, allowing easy storage and retrieval of participant and activity data. The website facilitates real-time updates, event management, and information sharing among students, supervisors, and community members. With a clean interface and efficient structure, this project aims to enhance the coordination and success of KKN programs across various locations.
                             </p>
                             <cite className='inline-flex items-center mt-8 not-italic'>
                                 <span className='hidden w-6 h-px bg-gray-400 sm:inline-block'></span>
