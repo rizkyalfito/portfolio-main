@@ -9,6 +9,8 @@ import { FaGithub } from "react-icons/fa";
 import { FaJs } from "react-icons/fa";
 import { SiFirebase } from "react-icons/si";
 import { SiJest } from "react-icons/si";
+import { SiNextdotjs } from "react-icons/si";
+import { SiBootstrap } from "react-icons/si";
 
 const Skills = () => {
   return (
@@ -68,8 +70,16 @@ const Skills = () => {
               Tailwind CSS
             </li>
             <li className=" text-xl font-bold flex justify-center items-center flex-col">
+              <SiBootstrap size="40px" />
+              Bootstrap
+            </li>
+            <li className=" text-xl font-bold flex justify-center items-center flex-col">
               <FaReact size="40px" />
-              React
+              ReactJS
+            </li>
+            <li className=" text-xl font-bold flex justify-center items-center flex-col">
+              <SiNextdotjs size="40px" />
+              NextJS
             </li>
           </ul>
 
