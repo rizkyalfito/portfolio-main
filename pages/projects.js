@@ -104,6 +104,35 @@ const projects = () => {
                         </blockquote>
                     </div>
                 </section>
+                <section className='p-4 md:p-8 bg-gray-100 rounded-lg shadow-2xl'>
+                    <h1 className='font-bold text-lg md:text-xl text-blue-500 pb-4'>Website KKN Desa Jayakerta</h1>
+                    <div className='grid grid-cols-1 gap-0 sm:gap-8 md:grid-cols-3 items-center'>
+                        <div className='aspect-w-4 aspect-h-3'>
+                            <Image src='/images/project-images/kkn.png' layout='fill' objectFit='contain' alt=''/>
+                        </div>
+                        <blockquote className='sm:col-span-2'>
+                            <p className='text-xs md:text-base'>
+                            The KKN Website Project is a digital platform designed to streamline the data management and communication for community service programs (KKN). Built using Vite and React JS, this project ensures a fast and responsive user experience. It utilizes JSON files as a data source, allowing easy storage and retrieval of participant and activity data. The website facilitates real-time updates, event management, and information sharing among students, supervisors, and community members. With a clean interface and efficient structure, this project aims to enhance the coordination and success of KKN programs across various locations.
+                            </p>
+                            <cite className='inline-flex items-center mt-8 not-italic'>
+                                <span className='hidden w-6 h-px bg-gray-400 sm:inline-block'></span>
+                                <p className='text-xs md:text-base text-gray-500 sm:ml-3'>
+                                    Javascript, ReactJS, Vite
+                                </p>
+                            </cite>
+                            <div className='flex pt-8 space-x-4 flex-row'>
+                                <div className='flex space-x-4'>
+                                    <a href='https://github.com/rizkyalfito/desa-jayakerta' target='_blank' rel='noopener noreferrer'>
+                                        <FiGithub size='30px'/>
+                                    </a>
+                                    <a href='https://desa-jayakerta.vercel.app/' target='_blank' rel='noopener noreferrer'>
+                                        <FiExternalLink size='30px'/>
+                                    </a>
+                                </div>
+                            </div>
+                        </blockquote>
+                    </div>
+                </section>
             </div>
         </div>
     )
